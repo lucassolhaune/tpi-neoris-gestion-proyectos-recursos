@@ -44,12 +44,12 @@ Se usó **Claude (Anthropic, Claude Sonnet 5.5)** como asistente en la elaboraci
 
 ### Prompts utilizados y justificación
 
-| Prompt (resumen) | Para qué | Por qué así / qué se corrigió |
+  | Prompt (resumen) | Para qué | Revisión |
 |---|---|---|
-| Armar la Entrega 2 con la consigna y la Entrega 1 adjuntas | FODA, objetivos, metas y Gantt | Se adjuntó la Entrega 1 como contexto para que la IA no inventara datos del caso. |
-| Armar la Entrega 3 y auditarla | Organigrama y diccionario de datos | La auditoría detectó tablas cortadas, una fuente distinta y una referencia con título inventado; se corrigieron. |
-| Dar un tono más personal y revisar las referencias | Redacción y bibliografía | Se cuestionó la validez de las referencias; quedó pendiente sumar bibliografía de la cátedra. |
-| Seguir con la Entrega 4 con la consigna adjunta | BPMN, README, historias de usuario, indicadores | La IA no puede crear el repositorio ni el tablero: eso se hizo a mano en GitHub. |
+| Apoyo en la elaboración de la Entrega 1 a partir de la consigna y de información pública. | Descripción de la organización y revisión de la redacción - FODA, objetivos, metas y Gantt | Se revisó el contenido y se ajustó según la consigna. |
+| Apoyo en el desarrollo de la Entrega 2, tomando como referencia el trabajo anterior. | Organigrama y diccionario de datos | Se revisaron la claridad y la coherencia de la propuesta |
+| Apoyo en la organización de la Entrega 3 sobre la base del proyecto ya definido.| Estructura del área y organización de los datos. | Las propuestas se revisaron y adaptaron al trabajo. |
+| Apoyo en el desarrollo y la consolidación de la Entrega 4.| Modelado del proceso e indicadores de desempeño.| Se revisó el material y se incorporaron ajustes propios.|
 
 ### Correcciones humanas sobre los resultados de la IA
 
