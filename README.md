@@ -51,15 +51,15 @@ Se usó **Claude (Anthropic, Claude Sonnet 5.5)** como asistente en la elaboraci
 | Apoyo en la organización de la Entrega 3 sobre la base del proyecto ya definido.| Estructura del área y organización de los datos. | Las propuestas se revisaron y adaptaron al trabajo. |
 | Apoyo en el desarrollo y la consolidación de la Entrega 4.| Modelado del proceso e indicadores de desempeño.| Se revisó el material y se incorporaron ajustes propios.|
 
-### Correcciones humanas sobre los resultados de la IA
+## Correcciones humanas sobre los resultados de la IA
 
-A partir de los resultados iniciales proporcionados por la IA, se ejecutaron las siguientes correcciones y mejoras manuales:
+A partir de los resultados iniciales proporcionados por la IA, se realizaron las siguientes revisiones y mejoras manuales:
 
-* Ayuda al ordenamiento para el README.md (formato tabla para organizar la información) esto esta bien redactado?
-* **Reestructuración del diagrama BPMN:** Ordenamiento lógico de los elementos y flujos para reflejar de manera precisa el proceso.
-* **Corrección de estilo y texto:** Corrección de errores ortográficos, gramaticales y de formato en la redacción de las Historias de Usuario.
-* **Optimización de legibilidad:** Estructuración y maquetación general del texto para lograr un documento claro y bien organizado.
-
+- **Organización del README:** se reorganizó la información y se presentó en formato de tabla para facilitar su lectura.
+- **Ajustes del diagrama BPMN:** se reorganizaron los elementos y flujos para representar con claridad el proceso.
+- **Corrección de las historias de usuario:** se revisaron la redacción, la ortografía y el formato.
+- **Mejoras de presentación:** se ajustó la estructura y el formato general para facilitar la lectura del documento.
+  
 ### Responsabilidad
 
 La asistencia de IA no exime de la veracidad del contenido: los errores del modelo son responsabilidad del autor. La estructura organizacional y los datos del diccionario son propuestas hipotéticas y no corresponden a información interna de Neoris.
