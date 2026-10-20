@@ -55,6 +55,7 @@ Se usó **Claude (Anthropic, Claude Sonnet 5.5)** como asistente en la elaboraci
 
 A partir de los resultados iniciales proporcionados por la IA, se ejecutaron las siguientes correcciones y mejoras manuales:
 
+* **Ayuda al ordenamiento para el README.md (formato tabla para organizar la información) esto esta bien redactado?
 * **Reestructuración del diagrama BPMN:** Ordenamiento lógico de los elementos y flujos para reflejar de manera precisa el proceso.
 * **Corrección de estilo y texto:** Corrección de errores ortográficos, gramaticales y de formato en la redacción de las Historias de Usuario.
 * **Optimización de legibilidad:** Estructuración y maquetación general del texto para lograr un documento claro y bien organizado.
