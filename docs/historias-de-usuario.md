@@ -1,4 +1,4 @@
-# Historias de usuario
+<img width="1914" height="795" alt="imagen" src="https://github.com/user-attachments/assets/9706abc1-900f-484c-8fdb-bd9c91652f59" /># Historias de usuario
 
 **HU-01.** Como consultor, quiero cargar mis horas diarias sobre los proyectos en los que tengo una asignación vigente, para que mi trabajo quede registrado y pueda facturarse correctamente.
 - Solo permite imputar a proyectos con asignación vigente.
@@ -29,4 +29,4 @@ Los PR [#1](https://github.com/lucassolhaune/tpi-neoris-gestion-proyectos-recurs
 
 La captura muestra las tres historias en la columna **Por Hacer** del tablero de GitHub Projects.
 
-![Tablero de GitHub Projects con las tres historias en Por Hacer](evidencias/tablero-github-projects.png)
+<img width="1914" height="795" alt="download" src="https://github.com/user-attachments/assets/e97f5b5a-bc67-4b46-bb3f-7761b2056df2" />
