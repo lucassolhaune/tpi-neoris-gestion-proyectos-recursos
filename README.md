@@ -36,7 +36,7 @@ Este repositorio aloja la **documentación técnica** del proyecto; todavía no 
 
 ## Flujo de trabajo
 
-La rama `main` contiene la versión estable. Cada tema se trabaja en una rama `docs/...`, con commits descriptivos (`tipo: descripción en imperativo`) y, para los cambios importantes, un Pull Request revisado por otra persona. Detalle en [`docs/flujo-de-trabajo.md`](docs/flujo-de-trabajo.md).
+La rama `main` contiene la versión estable. Para nuevos cambios se utilizan ramas temáticas y mensajes de commit descriptivos que indiquen qué se modificó. Los PR #1 y #2 del BPMN se crearon desde `image-BPMN` e `Image-BPMN`, respectivamente; ambas ramas se eliminaron después de integrarlos. La rama `docs/bpmn-proceso-facturacion` también existe, pero es distinta de las ramas usadas en esos PR. El detalle está en `docs/flujo-de-trabajo.md`.
 
 ## Declaración de Uso de IA
 
