@@ -14,3 +14,19 @@
 - Solo se envían horas en estado aprobado.
 - Cada envío tiene un identificador único y queda en un log.
 - El módulo registra el comprobante y bloquea las horas facturadas.
+
+## Trazabilidad en GitHub
+
+| Historia | Issue | Estado en el tablero | Pull Request asociado |
+|---|---|---|---|
+| HU-01 | [#3: Cargar horas diarias por proyecto](https://github.com/lucassolhaune/tpi-neoris-gestion-proyectos-recursos/issues/3) | Por Hacer | Sin PR específico |
+| HU-02 | [#4: Aprobar o devolver las horas del equipo](https://github.com/lucassolhaune/tpi-neoris-gestion-proyectos-recursos/issues/4) | Por Hacer | Sin PR específico |
+| HU-03 | [#5: Enviar al ERP las horas aprobadas sin duplicados](https://github.com/lucassolhaune/tpi-neoris-gestion-proyectos-recursos/issues/5) | Por Hacer | Sin PR específico |
+
+Los PR [#1](https://github.com/lucassolhaune/tpi-neoris-gestion-proyectos-recursos/pull/1) y [#2](https://github.com/lucassolhaune/tpi-neoris-gestion-proyectos-recursos/pull/2) corresponden al BPMN, no a estas historias.
+
+## Evidencia del tablero
+
+La captura muestra las tres historias en la columna **Por Hacer** del tablero de GitHub Projects.
+
+![Tablero de GitHub Projects con las tres historias en Por Hacer](evidencias/tablero-github-projects.png)
